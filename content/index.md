@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Zeke's Notebook
 ---
+[[ideas]]
+[[frustration]]
+[[knowledge.canvas|knowledge]]
+[[beauty]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+
+
+
