@@ -19,7 +19,7 @@ I don’t see any reason why this must be the case.
 3. If *caring is a superpower* and [nothing is intrinsically difficult](https://guzey.com/education/is-anything-inherently-difficult/) , then given the right systems design and technological advancements, everyone is fully capable of realizing their individual genius. If the 20th century was about lifting people out of poverty, then the 21st will be about liberating souls mired in poorly designed systems and burdened by overwhelming physical and mental costs of living.
 
 # Technologies
-I think of myself less of a technological optimist; it would be closer to say that I’m a human optimist. 
+I think of myself less of a technological optimist and more of a human optimist. 
 Here are a few, very broad questions I’m going to explore (not all at once) over the course of my life:
 - why are healthcare systems and medicine in general slow to innovate? can we do better and cause less needless suffering?
 - COVID almost just reset civilization and exposed our institutional incompetence, we were incredibly lucky it wasn't more fatal among younger adults, how are we going to improve our biodefense so that it never happens again?
@@ -30,7 +30,7 @@ Here are a few, very broad questions I’m going to explore (not all at once) ov
 - how do we cultivate and maintain freedom? of speech? of mind?
 - what would an idealized world of energy abundance look like?
 - what can we do when the cost of energy shoots to zero?
-- what does decentralization of atoms mean?
+- what does decentralization of atoms actually mean/imply?
 
 # Miscellaneous Goals
 - build a public laboratory (Thomas Edison style)  / modern incarnation of a library / free compute/hardware makerspace that everyone can use. This would require me to get quite rich…
@@ -38,7 +38,7 @@ Here are a few, very broad questions I’m going to explore (not all at once) ov
 - have at least 4 children
 - learn to draw
 - learn to create my own melodies
-- find good friends
+- find/make good friends
 
 # Am I too old?  
 ehh, maybe. Most of the people I see who have an impact on the world start quite young. Worst case scenario I will have kids and raise them to be great (this is not a joke).
