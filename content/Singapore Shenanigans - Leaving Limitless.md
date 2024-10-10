@@ -11,6 +11,6 @@ On August 8th, 2024 after a conversation with my co-founder and our lead investo
 
 I'd much rather learn from success, but here’s what I thought about the day after I quit:
 - Many people have strong opinions, especially on X, but who has truly risked something for their beliefs. Who has let their professed values constrain and mold them into who they are today? How much are you willing to do for what you think is right?
-- I would say that I learned the value of thinking for yourself. I was on the fence about leaving the company a few times, but my cofounder would convince me otherwise and while I think he is very smart, ultimately I was not doing enough to really derive for myself what I believed and thought. Independence of thought is really hard. Am working on this.
+- I would say that I learned the value of thinking for yourself. I ultimately I was not doing enough to really derive for myself what I believed and thought. Independence of thought is really hard. Am working on this.
 > "I shall rise and fall by my own deeds, my own brain, my own willpower"
 - good friends are a raison d’être
