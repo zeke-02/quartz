@@ -2,7 +2,7 @@
 title: Zeke's Notebook
 modified: 10/9/2024
 ---
-[[leaving limitless]]
+[[Leaving Limitless]]
 [[the good shit]]
 [[Personal Life Thesis]]
 
