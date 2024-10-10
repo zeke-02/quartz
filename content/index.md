@@ -1,9 +1,9 @@
 ---
 title: Zeke's Notebook
-modified: 10/9/2024
+modified: 10/10/2024
 ---
-[[Leaving Limitless]]
+[[Singapore Shenanigans - Leaving Limitless]]
 [[the good shit]]
 [[Personal Life Thesis]]
 
-I will be periodically condensing my thoughts/notes here :)
+I will be periodically condensing my thoughts here :)

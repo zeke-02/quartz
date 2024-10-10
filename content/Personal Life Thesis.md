@@ -1,5 +1,5 @@
 ---
-modified: 10/9/2024
+modified: 10/10/2024
 ---
 *Disclaimer: My views constantly change as I learn more about the world and I will be periodically updating this piece.*
 
@@ -14,7 +14,7 @@ I strongly desire a world full of beautiful builders. Of dreamers. Of scientists
   > “But Zeke, most people aren’t problem-solvers or creatives. Those only exist on X or Corners of the Internet or on the Joe Rogan Podcast” I hear you say.
 
 I don’t see any reason why this must be the case.
-1. Culture is downstream of technology. I have seen a generation of minds ruined by consuming passive, inundating content from screens, this can change. Also the medium is the message.
+1. Culture is downstream of technology. I have seen a generation of minds ruined by consuming passive, inundating content from screens, this can change. Also the [medium is the message](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X).
 2. We were all kids once and were certainly capable of the intrinsic curiosity and disobedience required for creativity.
 3. If *caring is a superpower* and [nothing is intrinsically difficult](https://guzey.com/education/is-anything-inherently-difficult/) , then given the right systems design and technological advancements, everyone is fully capable of realizing their individual genius. If the 20th century was about lifting people out of poverty, then the 21st will be about liberating souls mired in poorly designed systems and burdened by overwhelming physical and mental costs of living.
 
