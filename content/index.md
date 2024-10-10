@@ -1,10 +1,9 @@
 ---
 title: Zeke's Notebook
-modified: 10/5/2024
+modified: 10/9/2024
 ---
-[[frustration]]
-[[random readings]]
-[[writing]]
-[[Personal Life Thesis, Naive Approach]]
+[[leaving limitless]]
+[[the good shit]]
+[[Personal Life Thesis]]
 
 I will be periodically condensing my thoughts/notes here :)
