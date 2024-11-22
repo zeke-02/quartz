@@ -1,8 +1,7 @@
 ---
 title: Zeke's Notebook
-modified: 10/19/2024
+modified: 11/21/2024
 ---
-[[Singapore Shenanigans - Leaving Limitless]]
 [[writing]]
 [[Personal Life Thesis]]
 
