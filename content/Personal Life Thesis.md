@@ -1,5 +1,5 @@
 ---
-modified: 10/10/2024
+modified: 12/3/2024
 ---
 *Disclaimer: My views constantly change as I learn more about the world and I will be periodically updating this piece.*
 
