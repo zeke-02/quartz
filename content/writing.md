@@ -5,4 +5,4 @@ modified: 11/21/2024
 [[Band of Brothers]]
 [[Run]]
 [[Singapore Shenanigans - Leaving Limitless]]
-[[Dr. Innovation]]
+[[thoughts on the medical school system as an outsider]]
