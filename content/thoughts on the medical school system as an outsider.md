@@ -1,10 +1,10 @@
 ---
-modified: 12/10/2024
+modified: 12/11/2024
 ---
 # ruminations on the future of medicine
 There is no repeatable formula for innovation. However, one prerequisite that I'm certain of is the existence of inventors. Now, this is a pretty ill-defined group of individuals, but my intuition tells me that for all their wonderful variety, they hold two traits in common; curiosity and obsession. From this, one can subsequently produce a litmus-test for different fields and measure the extent to which they promote those two traits within the people working in them.
 
-Applying our methods to the domain of medicine, it appears to me that the current institutions do not cultivate the qualities necessary for innovation within individuals, and as a result the innovation that we will see won't come from clinicians working in the system, but from unconventional outsiders.
+Applying our methods to the domain of medicine, it appears to me that the current institutions do not cultivate the qualities necessary for innovation within individuals. As a result the innovation that we will see won't come from clinicians working in the system, but from unconventional outsiders.
 
 This is the confluence of a few decade-old trends.
 
