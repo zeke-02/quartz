@@ -1,8 +1,8 @@
 ---
-modified: 11/21/2024
+modified: 4/23/2025
 ---
 [[Book Review, Rainbow's End by Vernor Vinge]]
 [[Band of Brothers]]
-[[Run]]
-[[Singapore Shenanigans - Leaving Limitless]]
-[[thoughts on the medical school system as an outsider]]
+[[Caring is all that matters now]]
+[[Personal Life Thesis]]
+[[Book Review, My Inventions - Nikolai Tesla]]
