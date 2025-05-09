@@ -1,8 +1,5 @@
 ---
 title: Zeke's Notebook
-modified: 11/21/2024
+modified: 5/9/2025
 ---
-[[writing]]
 [[Personal Life Thesis]]
-
-I will be periodically condensing my thoughts here :)
